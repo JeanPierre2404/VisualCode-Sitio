@@ -1,0 +1,32 @@
+*{
+    margin: 5px;
+    
+}
+.yo img{
+    width: 150px;
+    height: 200px;
+    margin-right: 15px;
+    border-radius: 5px;
+    float: left;
+    
+}
+
+.contenedor{
+    width: 95%;
+    min-height: 560px;
+    background: rgb(216, 209, 209);
+    border-radius: 6px;
+    margin: 0 auto;
+    display: grid; 
+}
+
+.redes{
+    display: inline-block;
+    
+   
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
